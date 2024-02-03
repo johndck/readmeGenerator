@@ -8,7 +8,7 @@
 - [Installation](#installation)
 - [Usage](#Usage)
 - [Contribution](#Contribution)
-- [Test instructions](#TestInstructions)
+- [Testing](#Testing)
 - [Questions](#Questions)
 
 ## Description
@@ -31,7 +31,7 @@ Set out how to install the application. Super simple.
 
 Set out how to install the application. Super simple.
 
-## Test Instructions
+## Testing
 
 Set out how to install the application. Super simple.
 
@@ -49,4 +49,4 @@ This project is covered under license: MIT.
 
 ## Credits
 
-This project was undertaken by John Dick without any collaborators.
+This project was undertaken by John Dick without any collaborators for the purposes of assessment on the EDX bootcamp.
