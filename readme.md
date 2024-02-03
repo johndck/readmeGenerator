@@ -9,6 +9,7 @@
 - [Usage](#Usage)
 - [Contribution](#Contribution)
 - [Test instructions](#TestInstructions)
+- [Questions](#Questions)
 
 ## Description
 
@@ -26,7 +27,7 @@ The application requires node.js to run and a command line interface.
 
 Set out how to install the application. Super simple.
 
-## Contribution guidelines
+## Contribution
 
 Set out how to install the application. Super simple.
 
