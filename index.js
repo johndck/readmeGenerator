@@ -44,7 +44,7 @@ const questions = [
     name: "license",
     message: "What license do you want for this project?",
     default: "MIT",
-    choices: ["MIT", "Private", "Private"],
+    choices: ["MIT", "Apache License 2.0", "BSD License"],
   },
   {
     type: "input",

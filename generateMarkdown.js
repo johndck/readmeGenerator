@@ -23,7 +23,7 @@ function generateMarkdown(answers) {
 
 ## Description
 
-This project creates a simple javascript command line interface application to automatically generate a project README file, based on best practice guidelines.
+${answers.description}
 
 ### What problem does the project solve?
 
@@ -31,31 +31,31 @@ Reduces the time taken on each project to create the supporting README file and 
 
 ## Installation
 
-The application requires node.js to run and a command line interface.
+${answers.installation}
 
 ## Usage
 
-Set out how to install the application. Super simple.
+${answers.usage}
 
 ## Contribution
 
-Set out how to install the application. Super simple.
+${answers.contribution}
 
 ## Testing
 
-Set out how to install the application. Super simple.
+${answers.test}
 
 ## Questions
 
 Key questions need to be listed here.
 
-And, for more questions, you can find more on my Github profile: johndck
+And, for more questions, you can find more on my Github profile: ${answers.github}
 
-To contact me directly, you can email me directly at: johnturnerdick@gmail.com
+To contact me directly, you can email me directly at: ${answers.email}
 
 ## **License**
 
-This project is covered under license: MIT.
+This project is covered under license: ${answers.license}
 
 ## Credits
 
