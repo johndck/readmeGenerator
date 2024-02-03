@@ -6,11 +6,23 @@
 
 // Create the markdown file
 
+function createLicenselogo(logo) {
+  if (logo === "MIT") {
+    return `![MIT image](/mit-license.png)`;
+  }
+  if (logo === "Apache License 2.0") {
+    return `![MIT image](/apache.png)`;
+  }
+  if (logo === "BSD License") {
+    return `![MIT image](/BSD.png)`;
+  }
+}
+
 function generateMarkdown(answers) {
   return `
 # Project ${answers.title}
 
-## License: ** ![MIT image](/mit-license.png) **
+## License: ** ${createLicenselogo(answers.license)} **
 
 ## Table of Contents
 
@@ -49,7 +61,9 @@ ${answers.test}
 
 Key questions need to be listed here.
 
-And, for more questions, you can find more on my Github profile: ${answers.github}
+And, for more questions, you can find more on my Github profile: ${
+    answers.github
+  }
 
 To contact me directly, you can email me directly at: ${answers.email}
 

@@ -1,3 +1,5 @@
+This is a template readme created for the application.
+
 # Project Title
 
 ## License: ** ![MIT image](/mit-license.png) **

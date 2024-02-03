@@ -1,5 +1,5 @@
 
-# Project The is my 3rd build test project
+# Project Automatic Readme Generator CLI Application
 
 ## License: ** ![MIT image](/mit-license.png) **
 
@@ -14,7 +14,7 @@
 
 ## Description
 
-Test that my code is working end to end
+This project creates a simple javascript command line interface application to automatically generate a project README file, based on best practicsThis project creates a simple javascript command line interface application to automatically generate a project README file, based on best practice guidelines.
 
 ### What problem does the project solve?
 
@@ -22,19 +22,19 @@ Reduces the time taken on each project to create the supporting README file and 
 
 ## Installation
 
-Install Node.js and then from the CLI run node index.js
+Via NODE.JS CLI
 
 ## Usage
 
-Runs in the CLI
+Follow the prompts through the application
 
 ## Contribution
 
-Because of the rules of the assignment, no collaborators
+This application is part of the EDX assessment, so no other person.
 
 ## Testing
 
-There are a set of test scripts to be provided
+There are a set of test scripts available
 
 ## Questions
 
@@ -42,11 +42,11 @@ Key questions need to be listed here.
 
 And, for more questions, you can find more on my Github profile: johndck
 
-To contact me directly, you can email me directly at: test@test.com
+To contact me directly, you can email me directly at: johnturnerdick@gmail.com
 
 ## **License**
 
-This project is covered under license: Apache License 2.0
+This project is covered under license: MIT
 
 ## Credits
 
