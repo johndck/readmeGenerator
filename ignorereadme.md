@@ -1,14 +1,4 @@
-// Generate the additional license info
-
-// Create the badge
-// Create the license link
-// Create the license section
-
-// Create the markdown file
-
-function generateMarkdown(answers) {
-  return `
-# Project ${answers.title}
+# Project Title
 
 ## License: ** ![MIT image](/mit-license.png) **
 
@@ -60,7 +50,3 @@ This project is covered under license: MIT.
 ## Credits
 
 This project was undertaken by John Dick without any collaborators for the purposes of assessment on the EDX bootcamp.
-  `;
-}
-
-module.exports = generateMarkdown;

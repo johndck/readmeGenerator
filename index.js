@@ -71,7 +71,7 @@ inquirer
     // create the markdown file with the answers
     const results = generateMarkdown(answers);
     console.log(results);
-    const filename = "readme.md";
+    const filename = "README.md";
     console.log(filename);
 
     fs.writeFile(filename, results, (err) =>
