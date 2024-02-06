@@ -27,7 +27,7 @@ The application requires node.js to run and a command line interface.
 
 Open your command line interace and run the index.js within NODE.js.
 
-You can watch a video here [video](/Untitled_%20Feb%206,%202024%2012_45%20PM.webm)
+You can watch a mp4 video here [video](/untitled_-feb-6-2024-12_45-pm.mp4)
 
 ## Contribution
 
