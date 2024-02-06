@@ -1,7 +1,7 @@
 
-# Project Software Project
+# Project Professional ReadMe Generator
 
-## License: ** ![MIT image](/BSD.png) **
+## License: ** ![MIT image](/mit-license.png) **
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@
 
 ## Description
 
-The project aims to create some software
+This project creates a professional readme file through the CLI
 
 ### What problem does the project solve?
 
@@ -22,19 +22,19 @@ Reduces the time taken on each project to create the supporting README file and 
 
 ## Installation
 
-Automatically in the browser
+The application is run from the CLI with NODE.JS
 
 ## Usage
 
-Automatically in the browser
+Via the CLI from node index.js
 
 ## Contribution
 
-This application had no collaborators
+No collaborators as part of the EDX challenge
 
 ## Testing
 
-There are a set of test scripts available
+By comparing the automatically generated readme file with the answers to these quesitons
 
 ## Questions
 
@@ -42,11 +42,11 @@ Key questions need to be listed here.
 
 And, for more questions, you can find more on my Github profile: johndck
 
-To contact me directly, you can email me directly at: johndck
+To contact me directly, you can email me directly at: johnturnerdick@gmail.com
 
 ## **License**
 
-This project is covered under license: BSD License
+This project is covered under license: MIT
 
 ## Credits
 
