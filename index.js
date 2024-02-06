@@ -64,8 +64,6 @@ inquirer
   .prompt(questions)
   .then((answers) => {
     console.log("Thank you for your answers");
-    //console.log(answers);
-    //console.log(answers.title);
     console.log(answers);
 
     // create the markdown file with the answers
@@ -74,10 +72,11 @@ inquirer
     const filename = "AutoCreateREADME.md";
     console.log(filename);
 
+    // store the file on local file system
+
     fs.writeFile(filename, results, (err) =>
       err ? console.log(err) : console.log("file created")
     );
-    // store the write file
   })
   .catch((error) => {
     if (error.isTtyError) {

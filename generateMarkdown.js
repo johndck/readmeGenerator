@@ -1,9 +1,3 @@
-// Generate the additional license info
-
-// Create the badge
-// Create the license link
-// Create the license section
-
 // Create the markdown file
 
 function createLicenselogo(logo) {
